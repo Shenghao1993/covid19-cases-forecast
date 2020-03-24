@@ -7,3 +7,6 @@ Forecast change of affected cases over time
 
 # Data Sources:
 https://github.com/CSSEGISandData/COVID-19
+
+
+https://www.lewuathe.com/covid-19-dynamics-with-sir-model.html
